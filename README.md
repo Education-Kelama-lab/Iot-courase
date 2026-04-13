@@ -89,4 +89,4 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxx
 ---
 
 ## 📝 Licence
-適宜設定してください（MIT / Apache / CC0 など）
+MITライセンス
